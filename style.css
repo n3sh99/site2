@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+    footer {
+    background-color: white;
+    color: black;
+    bottom:0;
+    position:fixed;
+    width:100%;
+}
+}
